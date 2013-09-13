@@ -1,6 +1,6 @@
 {
   "name": "bittorrent-created-by",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse bittorrent \"created by\" strings into objects or die trying!",
   "main": "index.js",
   "scripts": {
