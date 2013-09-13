@@ -1,0 +1,27 @@
+{
+  "name": "bittorrent-created-by",
+  "version": "0.0.0",
+  "description": "Parse bittorrent \"created by\" strings into objects or die trying!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/bittorrent-created-by.git"
+  },
+  "keywords": [
+    "bittorrent",
+    "torrent",
+    "parse"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoxxa/bittorrent-created-by/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "~1.12.1"
+  }
+}
